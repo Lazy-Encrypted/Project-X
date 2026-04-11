@@ -19,12 +19,6 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • HighEnd Animations
 
-• NO Live Blur
-
-• NO Galaxy AI 
-
-• NO KnoxPatch
-
 • Stock models in Settings and user apps
 
 • Disabled secure flag
