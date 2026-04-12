@@ -15,13 +15,9 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • Heavily Debloated
 
-• HighEnd Animations
+• LowEnd Animations
 
-• NO Live Blur
-
-• NO Galaxy AI 
-
-• NO KnoxPatch
+• Native Galaxy AI 
 
 • Stock models in Settings and user apps
 
