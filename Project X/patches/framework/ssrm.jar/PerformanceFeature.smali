@@ -89,7 +89,7 @@
     move v2, v3
 
     :goto_35
-    sput-boolean v2, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8450:Z
+    sput-boolean v2, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8250:Z
 
     .line 34
     const-string v2, "SM8475"
