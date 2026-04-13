@@ -6,8 +6,6 @@
 # static fields
 .field public static CHIP_SM8250:Z
 
-.field public static CHIP_SM8475:Z
-
 .field public static disableGpisSkip:Z
 
 
@@ -19,9 +17,6 @@
     const/4 v0, 0x0
 
     sput-boolean v0, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8250:Z
-
-    .line 23
-    sput-boolean v0, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8475:Z
 
     .line 24
     sput-boolean v0, Lcom/android/server/ssrm/PerformanceFeature;->disableGpisSkip:Z
@@ -92,13 +87,13 @@
     sput-boolean v2, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8250:Z
 
     .line 34
-    const-string v2, "SM8475"
+    const-string v2, "SM8250"
 
     invoke-virtual {v2, v1}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
 
     move-result v2
 
-    sput-boolean v2, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8475:Z
+    sput-boolean v2, Lcom/android/server/ssrm/PerformanceFeature;->CHIP_SM8250:Z
 
     .line 36
     const-string v2, "6:2"
