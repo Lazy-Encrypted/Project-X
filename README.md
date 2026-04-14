@@ -9,7 +9,7 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 # Features
 
-• Based on the latest stable OneUI 5.1 Galaxy A52s firmware
+• Based on the latest stable OneUI 6.1 Galaxy A52s firmware
 
 • EXT4 powered
 
