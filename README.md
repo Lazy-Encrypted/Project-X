@@ -25,9 +25,9 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • Full SELinux Support
 
-• Auto PIN confirm with 4 digits
-
 • Samsung DeX support
+
+• Auto PIN confirm with 4 digits
 
 • Fixed Perf-Hal
 
