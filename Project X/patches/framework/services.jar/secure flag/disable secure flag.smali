@@ -1,4 +1,4 @@
-.method public isSecureLocked()Z
+.method isSecureLocked()Z
     .registers 2
 
     const/4 v0, 0x0
