@@ -10,7 +10,7 @@ Project X supports only S20 FE Qualcomm (r8q)
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
-# Features
+# Emerald Features
 
 • Based on the latest stable OneUI 6.1 Galaxy A52s firmware
 
