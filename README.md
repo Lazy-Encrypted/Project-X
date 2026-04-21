@@ -19,6 +19,8 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 
 • HighEnd Animations
 
+• Live blur support
+
 • Stock models in Settings and user apps
 
 • Disabled secure flag
